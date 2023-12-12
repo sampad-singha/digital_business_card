@@ -10,7 +10,7 @@ const Footer = () => {
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><img src={tw} alt="Twitter logo"/></a>
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><img src={fb} alt="Facebook logo"/></a>
             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"><img src={ig} alt="Instagram logo"/></a>
-            <a href="https://github.com/sampad201199" target="_blank" rel="noopener noreferrer"><img src={gh} alt="Gitgub logo"/></a>
+            <a  href="https://github.com/sampad201199" target="_blank" rel="noopener noreferrer"><img src={gh} alt="Gitgub logo"/></a>
         </div>
     );
 };
